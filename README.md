@@ -2,7 +2,7 @@
 Throughout my career I was blessed with working alongside some of the brightest minds in the industry - witnessing these minds at work can be a humbling and incredibly educational experience.
 
 Back in 2015, during my tenure at Commonwealth Bank of Australia, two of my colleagues Stefan Hoermann and Rowan Davies 'stumbled upon' a simplified version of the `RelativeMonad` through a series of refactorings and subsequently applied theoretical rigour and distil it into a LambdaJam [talk and workshop](http://yowconference.com.au/slides/yowlambdajam2015/Davies-Hoermann-RelativeMonads.pdf).
-Unfortunately, I was unable to attend lambda yam that year (highly recommended) so I was left somewhat unsatisfied - I didReln't fully understand the weight of Stefan and Rowan's contribution, nor did I fully understand the process of discovery and the potential applications of the `RelativeMonad` at the time.
+Unfortunately, I was unable to attend LambdaJam that year (highly recommended) so I was left somewhat unsatisfied - I didn't fully understand the weight of Stefan's and Rowan's contribution, nor did I fully understand the process of discovery and the potential applications of the `RelativeMonad` at the time.
 
 The `RelativeMonad` has haunted me ever since: I studied the theory, the talk, the code accompanying the LambdaJam workshop, and production usage. I always felt I was missing a vital piece of information, the piece that would make it all click, the piece that would help me understand why this matters, the Eureka, the Aha. I understood the `how` but I was left with a question in my head: So what?
 
